@@ -1,9 +1,7 @@
 # Xamarin ScaleContacts
 
 [![Build status](https://ci.appveyor.com/api/projects/status/4oic8obnubjnlsnj?svg=true)](https://ci.appveyor.com/project/velyo/scale-contacts)  
-
-[![Join the chat at https://gitter.im/velyo/scale-contacts](https://gitter.im/velyo/scale-contacts.svg)](https://gitter.im/velyo/scale-contacts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  
-
+[![Gitter](https://badges.gitter.im/velyo/scale-contacts.svg)](https://gitter.im/velyo/scale-contacts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)   
 [![Stories in Ready](https://badge.waffle.io/scalefocus/scale-contacts.png?label=backlog&title=Backlog)](https://waffle.io/scalefocus/scale-contacts) 
 [![Stories in Ready](https://badge.waffle.io/scalefocus/scale-contacts.png?label=ready&title=Ready)](https://waffle.io/scalefocus/scale-contacts) 
 [![Stories in Ready](https://badge.waffle.io/scalefocus/scale-contacts.png?label=in%20progress&title=In%20Progress)](https://waffle.io/scalefocus/scale-contacts) 
@@ -11,7 +9,7 @@
 
 _ScaleFocus Xamarin Playgrounds_  
 ScaleContacts is a simple co-workers' contacts management mobile application.  
-The application will be using code and guidence from the prebuild [Xamarin Acquaint](https://github.com/xamarinhq/app-acquaint).
+The application will be using code and guidance from the prebuild [Xamarin Acquaint](https://github.com/xamarinhq/app-acquaint).
 
 ## Features
 
