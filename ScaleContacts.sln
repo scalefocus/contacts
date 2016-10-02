@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{E07E3D9C-593F-47D7-B694-DCFE25951C0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScaleContacts.Shared", "src\ScaleContacts.Shared\ScaleContacts.Shared.csproj", "{5C38E8D6-48F5-4BB2-AA4C-69AD04A29715}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScaleContacts.Tests", "test\ScaleContacts.Tests\ScaleContacts.Tests.csproj", "{5547FFF5-F308-49FF-A420-90DC7B2CD801}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScaleContacts.Driod", "src\ScaleContacts.Driod\ScaleContacts.Driod.csproj", "{9960F6F6-8CEE-40EB-80A4-63854495B043}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E5746903-6C16-4D3B-9932-C9E9CC50CE58}"
+	ProjectSection(SolutionItems) = preProject
+		CHANGELOG.md = CHANGELOG.md
+		CONTRIBUTING.md = CONTRIBUTING.md
+		ISSUE_TEMPLATE.md = ISSUE_TEMPLATE.md
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C38E8D6-48F5-4BB2-AA4C-69AD04A29715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C38E8D6-48F5-4BB2-AA4C-69AD04A29715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C38E8D6-48F5-4BB2-AA4C-69AD04A29715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C38E8D6-48F5-4BB2-AA4C-69AD04A29715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5547FFF5-F308-49FF-A420-90DC7B2CD801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5547FFF5-F308-49FF-A420-90DC7B2CD801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5547FFF5-F308-49FF-A420-90DC7B2CD801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5547FFF5-F308-49FF-A420-90DC7B2CD801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9960F6F6-8CEE-40EB-80A4-63854495B043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9960F6F6-8CEE-40EB-80A4-63854495B043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9960F6F6-8CEE-40EB-80A4-63854495B043}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9960F6F6-8CEE-40EB-80A4-63854495B043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9960F6F6-8CEE-40EB-80A4-63854495B043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9960F6F6-8CEE-40EB-80A4-63854495B043}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5547FFF5-F308-49FF-A420-90DC7B2CD801} = {E07E3D9C-593F-47D7-B694-DCFE25951C0D}
+	EndGlobalSection
+EndGlobal
