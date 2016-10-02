@@ -1,6 +1,6 @@
 # Xamarin ScaleContacts
 
-[![Build status](https://ci.appveyor.com/api/projects/status/4oic8obnubjnlsnj?svg=true)](https://ci.appveyor.com/project/velyo/scale-contacts)  
+[![Build status](https://ci.appveyor.com/api/projects/status/ysb73gkn7gryk0ng?svg=true)](https://ci.appveyor.com/project/velyo/scale-contacts)  
 [![Gitter](https://badges.gitter.im/velyo/scale-contacts.svg)](https://gitter.im/velyo/scale-contacts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)   
 [![Stories in Ready](https://badge.waffle.io/scalefocus/scale-contacts.png?label=backlog&title=Backlog)](https://waffle.io/scalefocus/scale-contacts) 
 [![Stories in Ready](https://badge.waffle.io/scalefocus/scale-contacts.png?label=ready&title=Ready)](https://waffle.io/scalefocus/scale-contacts) 
